@@ -7,8 +7,8 @@ type: example
 modules:
 
   - import:
-      dojo: example
-      module: hello
+      dojo: example111
+      module: hello111
 
   - id: planet
     name: Planet
